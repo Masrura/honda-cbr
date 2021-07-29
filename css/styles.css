@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    font-family: Poppins;
+}
+.banner{
+    background-color:#264653;
+    color: white;
+}
+.title{
+    font-size:3em;
+}
+.banner p{
+    font-size:1em;
+    width: 90%;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.user-image{
+    width:40%;
+    margin-right: auto;
+    margin-left: auto;
+}
